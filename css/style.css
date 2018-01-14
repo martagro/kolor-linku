@@ -1,0 +1,11 @@
+a:link {
+    color: aqua;
+}
+
+a[href*="doc"] {
+    color: red;
+}
+
+a[href*="pdf"] {
+    color: deeppink;
+}
